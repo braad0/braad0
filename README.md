@@ -1,4 +1,3 @@
-
 <!-- Banner (format large) -->
 <p align="center">
     <img
@@ -32,7 +31,7 @@
   Stack : C, pthreads, sockets, Bash.  
   Points clés : IPC, signaux, threads, scripts automatiques.
 
-* [credaudit](https://github.com/braad0/cybersec-toolkit/tree/main/credaudit) — Outil de brute force multi-protocoles (SSH/FTP/HTTP) développé from scratch.  
+* [credaudit](https://github.com/braad0/cybersec-toolkit) — Outil de brute force multi-protocoles (SSH/FTP/HTTP) développé from scratch.  
   Stack : Python, sockets raw, threading, paramiko.  
   Points clés : protocoles réseau bas niveau (FTP RFC 959, HTTP/1.1), zéro dépendance externe, rapports JSON/CSV.
 
