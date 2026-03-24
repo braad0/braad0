@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 </p>
 
-## Projets phares
+## Projets notables
 
 * [INFO-F201 – Chat IPC & Réseau avec Bot](https://github.com/braad0/Chat-IPC-and-Reseau) — Chat local via pipes nommés + serveur TCP multi-clients.  
   Stack : C, pthreads, sockets, Bash.  
