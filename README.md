@@ -26,7 +26,7 @@
 </p>
 
 ##  Projets phares
-* [INFO-F201 – Chat & ChatBot](https://github.com/braad0/info-f201-proj1-chat-main) — Chat local via pipes nommés + serveur TCP multi-clients.  
+* [INFO-F201 – Chat IPC & Réseau avec Bot](https://github.com/braad0/Chat-IPC-and-Reseau) — Chat local via pipes nommés + serveur TCP multi-clients.  
   Stack : C, pthreads, sockets, Bash.  
   Points clés : IPC, signaux, threads, scripts automatiques.
 
