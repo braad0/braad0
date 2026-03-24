@@ -18,10 +18,6 @@ Développeur systèmes & réseaux — C, Python, Linux. J’aime construire des 
   Stack : C, pthreads, sockets, Bash.  
   Points clés : IPC, signaux, threads, scripts automatiques.
 
-* [Arbre de fichiers Python](https://github.com/braad0/tree-cli) — CLI “tree” en Python (ignore regex, profondeur, symlinks).  
-  Usage rapide : `python3 tree.py -a -i "(node_modules|\.git|__pycache__)"`
-
-> Remplace les liens si tes repos sont différents ou privés.
 
 ## 🛠️ Stack
 * Langages : C, Python, Bash
@@ -38,12 +34,6 @@ Développeur systèmes & réseaux — C, Python, Linux. J’aime construire des 
 * [Pipes nommés vs sockets : quel choix ?](#)
 
 ## 📫 Me contacter
-* LinkedIn : https://www.linkedin.com/in/ton-profil
-* Email : ton.email@exemple.com
-
+* LinkedIn : https://www.linkedin.com/in/badr-ouali-9b09b6381/
+* Email : mbadouali.pro@gmail.com
 ---
-
-<!-- Astuces -->
-<p align="center">
-  <sub>Astuce : ajoute une bannière (≈1200×300) dans <code>assets/</code> et insère-la ici pour un look premium.</sub>
-</p>
