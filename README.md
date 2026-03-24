@@ -1,13 +1,14 @@
-<!-- Banner (format large, style YouTube/LinkedIn) -->
+
+<!-- Banner (format large) -->
 <p align="center">
     <img
-        src="assets/jpeg"
+        src="assets/banner.jpeg"
         alt="Cybersécurité • Réseaux • Administration Système"
         width="100%"
-        height="190"
         style="max-width: 1600px; height: 190px; object-fit: cover; object-position: center; display: block; border-radius: 8px;"
     />
 </p>
+
 
 <h1 align="center">Hey, moi c’est braad0 👋</h1>
 <p align="center">
