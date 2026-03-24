@@ -12,7 +12,7 @@
 
 <h1 align="center">Bienvenue dans mon espace</h1>
 <p align="center">
-    Développeur orienté cybersécurité, réseaux et administration système — Linux, C, Python.  
+    Développeur orienté cybersécurité, réseaux et administration système — Linux, C/C++, Python.  
     Focus : sécurité offensive/défensive, durcissement système, monitoring réseau et outillage CLI.
 </p>
 
