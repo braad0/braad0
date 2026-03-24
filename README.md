@@ -1,8 +1,10 @@
 <!-- Header -->
-<h1 align="center">Hey, moi c’est braad0 </h1>
+<h1 align="center">Bienvenue dans mon espace  </h1>
 <p align="center">
-Développeur systèmes & réseaux — C, Python, Linux. J’aime construire des chats bas-niveau, serveurs TCP et outils CLI.
+Développeur orienté cybersécurité, réseaux et administration système — Linux, C, Python.  
+Focus : sécurité offensive/défensive, durcissement système, monitoring réseau et outillage CLI.
 </p>
+
 
 <!-- Badges rapides -->
 <p align="center">
