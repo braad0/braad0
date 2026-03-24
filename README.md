@@ -33,7 +33,4 @@ Développeur systèmes & réseaux — C, Python, Linux. J’aime construire des 
 * [Comment j’ai construit un chat TCP en C](#)
 * [Pipes nommés vs sockets : quel choix ?](#)
 
-##  Me contacter
-* LinkedIn : https://www.linkedin.com/in/badr-ouali-9b09b6381/
-* Email : mbadouali.pro@gmail.com
 ---
