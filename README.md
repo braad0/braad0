@@ -1,5 +1,9 @@
-<!-- Header -->
-<h1 align="center">Bienvenue dans mon espace  </h1>
+<!-- Banner -->
+<p align="center">
+    <img src="https://raw.githubusercontent.com/braad0/braad0/main/assets/banner.png" alt="Banner — Cybersécurité, Réseaux, Administration Système" width="100%" />
+</p>
+
+<h1 align="center">Hey, moi c’est braad0 👋</h1>
 <p align="center">
 Développeur orienté cybersécurité, réseaux et administration système — Linux, C, Python.  
 Focus : sécurité offensive/défensive, durcissement système, monitoring réseau et outillage CLI.
