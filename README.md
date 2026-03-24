@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hey, moi c’est braad0 👋</h1>
+<h1 align="center">Hey, moi c’est braad0 </h1>
 <p align="center">
 Développeur systèmes & réseaux — C, Python, Linux. J’aime construire des chats bas-niveau, serveurs TCP et outils CLI.
 </p>
