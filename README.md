@@ -1,8 +1,12 @@
-<!-- Banner -->
+<!-- Banner (format large, style YouTube/LinkedIn) -->
 <p align="center">
-    <img src="assets/banner.png" alt="Cybersécurité • Réseaux • Administration Système" width="100%" />
-    <!-- Si besoin d'une URL absolue:
-         https://github.com/braad0/braad0/blob/main/assets/banner.png?raw=1 -->
+    <img
+        src="assets/banner.png"
+        alt="Cybersécurité • Réseaux • Administration Système"
+        width="100%"
+        height="190"
+        style="max-width: 1600px; height: 190px; object-fit: cover; object-position: center; display: block; border-radius: 8px;"
+    />
 </p>
 
 <h1 align="center">Hey, moi c’est braad0 👋</h1>
@@ -38,5 +42,3 @@
 ## ✍️ Articles / Notes
 * [Comment j’ai construit un chat TCP en C](#)
 * [Pipes nommés vs sockets : quel choix ?](#)
-
----
