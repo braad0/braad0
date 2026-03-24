@@ -1,7 +1,7 @@
 <!-- Banner (format large, style YouTube/LinkedIn) -->
 <p align="center">
     <img
-        src="assets/banner.png"
+        src="assets/jpeg"
         alt="Cybersécurité • Réseaux • Administration Système"
         width="100%"
         height="190"
