@@ -1,3 +1,4 @@
+
 <!-- Banner (format large) -->
 <p align="center">
     <img
@@ -35,7 +36,13 @@
   * [**credaudit**](https://github.com/braad0/cybersec-toolkit/tree/main/cred-audit) — Brute force multi-protocoles (SSH/FTP/HTTP) via sockets raw, zéro dépendance externe, rapports JSON/CSV.
   * [**passwd-audit**](https://github.com/braad0/cybersec-toolkit/tree/main/passwd-audit) — Craqueur de hash hors ligne contre `/etc/shadow`, détection automatique d'algorithme (yescrypt/sha512/bcrypt...), multi-threadé.
 
+* [MyThreat-Intel-aggregator](https://github.com/braad0/MyThreat-Intel-aggregator) — Enrichissement automatique d'IoCs via VirusTotal, AbuseIPDB et AlienVault OTX.
+  Stack : Python, requests, python-dotenv.
+  Points clés : détection automatique du type d'IoC, requêtes parallèles, verdict automatique, rapports JSON/CSV.
 
+* [DevSecOps-pipeline-secure](https://github.com/braad0/DevSecOps-pipeline-secure) — Pipeline CI/CD de sécurité automatisé sur une app Python volontairement vulnérable (OWASP Top 10).
+  Stack : GitHub Actions, Bandit, pip-audit, TruffleHog, flake8.
+  Points clés : 5 jobs en parallèle, matrice Python 3.10/3.11/3.12, security gates, rapport JSON/Markdown généré automatiquement.
 
 ## Stack
 * Langages : C, C++, Python, Bash
