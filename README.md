@@ -32,7 +32,7 @@
   Stack : C, pthreads, sockets, Bash.  
   Points clés : IPC, signaux, threads, scripts automatiques.
 
-* [cybersec-toolkit](https://github.com/braad0/cybersec-toolkit) — Collection d'outils offensifs développés from scratch en Python.
+* [CYBERSEC-toolkit](https://github.com/braad0/cybersec-toolkit) — Collection d'outils offensifs développés from scratch en Python.
   * [**credaudit**](https://github.com/braad0/cybersec-toolkit/tree/main/cred-audit) — Brute force multi-protocoles (SSH/FTP/HTTP) via sockets raw, zéro dépendance externe, rapports JSON/CSV.
   * [**passwd-audit**](https://github.com/braad0/cybersec-toolkit/tree/main/passwd-audit) — Craqueur de hash hors ligne contre `/etc/shadow`, détection automatique d'algorithme (yescrypt/sha512/bcrypt...), multi-threadé.
 
